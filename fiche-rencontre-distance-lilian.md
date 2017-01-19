@@ -13,7 +13,7 @@ Lilian
 
 ## Prendre Rendez vous
 
-Pour que je puisse prendre le temps de vous écouter, je vous demande prendre rendez vous plutot par mail en exposant en quelque lignes vos besoins/question..
+Pour que je puisse prendre le temps de vous écouter, je vous demande prendre rendez vous plutot par mail (contact@lilianricaud.com) en exposant en quelque lignes vos besoins/questions...
 
 Pour être efficace, je vous propose que nous limitions notre échange à 45 min maximum. Sauf exception, ce temps suffit largement et nous force a être dynamique et efficace.
 
