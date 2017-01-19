@@ -1,5 +1,7 @@
 ## Utilisation de Sparkleshare avec Github
 
+Dans ce tutoriel je décris l'installation et l'utilisation de SparkleShare afin d'éditer des fiches recettes sur mon bureau linux avec un simple éditeur texte et d'avoir une publication automatique en ligne sur github et multibao.
+
 ### Usage
 
 Sparkleshare est un logiciel libre qui permet de synchroniser automatiquement des dépots entre github, bitbucket ou autres instances Git et un dossier local sur un ordinateur, agissant effectivement comme une sorte de dropbox version Git.
