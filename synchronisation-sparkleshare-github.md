@@ -55,3 +55,9 @@ Note: il est nécessaire d'effectuer cette opération pour chaque répertoire à
 ### Plus d'infos:
 
 Aide Sparkleshare: https://github.com/hbons/SparkleShare/wiki
+
+
+## Source 
+
+CC-BY-SA Lilian Ricaud
+www.lilianricaud.com
