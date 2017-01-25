@@ -38,9 +38,9 @@ https://yhatt.github.io/marp/
 
 - Utilisez Markdown pour ajouter vos titres, liste à puces, liens, ...
 
-[](marp-demo-presentation.gif)
+![](marp-demo-presentation.gif)
 
-Seules nouvelles balises a retenir: 
+Seules nouvelles balises à retenir: 
 - l'option bg pour ajouter une image de fond atténuée pour que le texte soit lisible (ou bg original pour garder les couleurs originales no atténuées)
 - l'usage de trois tirets pour séparer les diapos.
 
