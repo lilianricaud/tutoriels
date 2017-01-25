@@ -24,12 +24,12 @@ Marp est un logiciel libre assez simple qui permet de faire des présentations e
 
 En quelque mots Marp,
 
-- Est multiplatforme
-- Permet de créer des présentation en Markdown
-- Permet un aperçu visuel en direct
-- Permet de créer des thèmes personnalisés (deux thèmes existent par défaut)
-- Permet d'ajouter des émoticonnes et des images de fond
-- Permet l'export des diapos en PDF
+- est multiplatforme
+- permet de créer des présentation en Markdown
+- permet un aperçu visuel en direct
+- permet de créer des thèmes personnalisés (deux thèmes existent par défaut)
+- permet d'ajouter des émoticonnes et des images de fond
+- permet l'export des diapos en PDF
 
 ## Créer une présentation avec Marp
 
