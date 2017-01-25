@@ -64,6 +64,10 @@ https://github.com/lilianricaud/presentations/blob/master/stigmergie.md
 le même contenu sous forme de PDF utilisable pour donner une présentation:
 https://github.com/lilianricaud/presentations/blob/master/stigmergie-presentation-dec2016.pdf
 
+## Autres alternatives
+
+Il existe aussi la possibilité de faire des présentations markdown lisibles par impress.js outils de présentation plus puissant, mais pour moi cet outil s'il offre plus de possibiité demande plus de temps et d'energie pour la prise en main et la gestion au quotidien.
+
 ## Source 
 
 CC-BY-SA Lilian Ricaud
