@@ -15,7 +15,12 @@ A propos
 - Contributeurs individuels ou nom du collectif ou de l'evenement au cours duquel ont été créé les contenus
 - source: 
 
-Quelques élements optionnels qui pourraient être utiles pour favoriser la mise en réseau des réflexions d'une rencontre à l'autre.
+Quelques éléments optionnels qui pourraient être utiles pour favoriser la mise en réseau des réflexions d'une rencontre à l'autre.
 - question / problématique initiale que l'atelier cherche à résoudre
 - résumé des réponses apportées ou conclusions
 - questions / problématiques en suspens qui restent à résoudre
+
+## Source:
+
+Lilian Ricaud 
+CC-BY-SA
