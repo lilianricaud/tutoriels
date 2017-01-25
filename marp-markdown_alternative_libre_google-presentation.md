@@ -40,9 +40,11 @@ https://yhatt.github.io/marp/
 
 ![](marp-demo-presentation.gif)
 
-Seules nouvelles balises à retenir: 
-- l'option bg pour ajouter une image de fond atténuée pour que le texte soit lisible (ou bg original pour garder les couleurs originales no atténuées)
+Seules nouvelles balises à retenir par rapport au markdown standard: 
+- l'option bg pour ajouter une image de fond atténuée pour que le texte soit lisible (ou bg original pour garder les couleurs originales non-atténuées)
 - l'usage de trois tirets pour séparer les diapos.
+
+autre option, ajouter des commentaires qui n'apparaitront pas dans le diaporama, mais seront accessible dans le fichier source (balises "< ! --- commentaires --- >)
 
 ## Usage de Marp/Markdown comme alternative libre a Google présentation
 
@@ -56,10 +58,11 @@ Le cout d'edition est faible, éditer dans un traitement de texte est plus rapid
 
 ## Exemple d'usage
 
-Voici donc le fichier au format markdown qui est modifiable dans marp pour faire une présentation avec aperçu visuel ou simplement dans un traitement de texte pour avoir accès au notes de présentations:
+Voici donc le fichier au format markdown qui est modifiable dans marp pour faire une présentation avec aperçu visuel ou simplement dans un traitement de texte pour avoir accès aux notes de présentations:
 https://github.com/lilianricaud/presentations/blob/master/stigmergie.md
 
-le même contenu sous forme de PDF utilisable pour donner une présentation
+le même contenu sous forme de PDF utilisable pour donner une présentation:
+https://github.com/lilianricaud/presentations/blob/master/stigmergie-presentation-dec2016.pdf
 
 ## Source 
 
