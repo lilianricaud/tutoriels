@@ -1,8 +1,8 @@
-## Utilisation de Sparkleshare avec Github
+# Utilisation de Sparkleshare avec Github
 
 Dans ce tutoriel je décris l'installation et l'utilisation de SparkleShare afin d'éditer des fiches recettes sur mon bureau linux avec un simple éditeur texte et d'avoir une publication automatique en ligne sur github et multibao.
 
-### Usage
+## Usage
 
 Sparkleshare est un logiciel libre qui permet de synchroniser automatiquement des dépots entre github, bitbucket ou autres instances Git et un dossier local sur un ordinateur, agissant effectivement comme une sorte de dropbox version Git.
 
@@ -14,7 +14,7 @@ Inconvénients: peu d'options, impossible de gérer des branches parallèles, de
 
 Sparkleshare marche donc bien pour mutualiser facilement des contenus vers Github et donc MultiBAO, moins pour un travail collaboratif poussé.
 
-### Installation
+## Installation
 
 - Télécharger Spakleshare: https://www.sparkleshare.org/
 
@@ -36,7 +36,7 @@ Sparkleshare devrait alors être autorisé à lire et écrire tous les dépots G
 
 Note: il est faut ajouter la clé SSH au niveau des réglages (settings) de l'utilisateurs, pas des réglages d'un seul dépot sinon il ne sera pas possible d'écrire sur tous les dossiers et la clés ne peut être ajoutée qu'une seule fois dans les réglages.
 
-### Synchronisation de dossiers locaux / dépots distant Github
+## Synchronisation de dossiers locaux / dépots distant Github
 
 Dans le menu du haut aller à:
 
@@ -52,7 +52,7 @@ La synchronisation devrait alors se faire avec un dossier local appellé Sparkle
 
 Note: il est nécessaire d'effectuer cette opération pour chaque répertoire à syrnchroniser.
 
-### Plus d'infos:
+## Plus d'infos:
 
 Aide Sparkleshare: https://github.com/hbons/SparkleShare/wiki
 
