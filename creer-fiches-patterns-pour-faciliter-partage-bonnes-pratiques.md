@@ -1,7 +1,14 @@
 # Créer des fiches patterns pour faciliter le partage de bonnes pratiques
 
+Partager des pratiques n'est pas aussi simple que de partager des codes sources. Dans un esprit d'innovation sociale ouverte, plusieurs collectifs ont tentés de rédiger des "codes sources" de pratiques ou recettes libres. 
 
-Il s'agit d'une méthode adaptée des langages de « pattern » (« schémas » ou patron de conception comme les patrons utilisés en couture) développée par l’architecte américain Christopher Alexander au début des années 80.
+Pour autant cette approche est un peu lourde et a plusieurs inconvénients. Il est notamment difficile de transfere une pratique developée dans un contexte vers un autre contexte ou les conditions sont différentes.
+
+Parfois les recettes sont trop longues ou trop courtes, l'info est redondante ou incomplète. Essayer de rédiger des recettes ultra complètes pour avoir toutes les informations qui pourraient être nécessaire est lourd pour les contributeurs et les lecteurs.
+
+Par conséquent, 
+
+Une bonne pratique est d'utiliser la méthode des langages de « pattern » (« schémas » ou patron de conception comme les patrons utilisés en couture) développée par l’architecte américain Christopher Alexander au début des années 80.
 
 Bien qu’elle soit peu connue dans le monde architectural, cette méthode a fortement influencée les développeurs informatiques qui l’ont très vite adaptée pour gérer la complexité du code informatique (les méthodes agiles et l’invention des wikis ont été directement influencés par les travaux de Christopher Alexander).
 
