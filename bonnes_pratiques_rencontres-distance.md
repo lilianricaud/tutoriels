@@ -26,7 +26,7 @@ Arrivé recemment il marche plutot bien avec peu de fonctionnalités, mais effic
 - Créer une nouvelle visio: https://framatalk.org/
 - Se connecter à une viso existante pour m'appeller: https://framatalk.org/liric
 
-Note: Necessite Mozilla Firefox ou Google Chrome. A la connexion à la viso il vous faut autoriser l'accès a votre micro et webcam quand cela vous est demandé.
+Note: Necessite Mozilla Firefox ou Google Chrome. A la connexion à la viso il faut autoriser l'accès au micro et à la webcam quand cela est demandé.
 
 ### Skype
 
