@@ -58,7 +58,8 @@ Note: il est nécessaire d'effectuer cette opération pour chaque répertoire à
 
 ## Créer un nouveau dossier
 
-Pour ajouter un dossier, il semble nécessaire de d'abord le creer via github
+Pour ajouter un dossier, il semble nécessaire de d'abord le creer via github et ps directement sur l'ordinateur.
+
 Pour cela, aller dans Repositories puis Cliquer sur New pour ajouter un repertoire.
 
 Après avoir choisi le nom, cliquer l'option add Readme, sinon le dépot ne sera pas utilisable tel quel.
