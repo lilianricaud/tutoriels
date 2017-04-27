@@ -48,9 +48,19 @@ Choisir l'option dépot Github
 
 Indiquer le nom d'utilisateur et le nom du dépot.
 
+Par exemple "lilianricaud/travail-en-reseau"
+
+attention a bien rentre le nom
+
 La synchronisation devrait alors se faire avec un dossier local appellé Sparkleshare et situé dans le dossier personnel.
 
-Note: il est nécessaire d'effectuer cette opération pour chaque répertoire à syrnchroniser.
+Note: il est nécessaire d'effectuer cette opération pour chaque répertoire à synchroniser.
+
+## Créer un nouveau dossier
+
+Pour ajouter un dossier, il semble nécessaire de d'abord le creer via github
+Pour cela, aller dans Add
+Cliquer l'option add Readme, sinon le dép
 
 ## Plus d'infos:
 
