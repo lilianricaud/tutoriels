@@ -1,9 +1,17 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2016-07-14T18:25:01+02:00
+<!--
 
-====== Migration Lilian Libre ======
-Created jeudi 14 juillet 2016
+---
+title: Migrer vers de outils libres et conviviaux 
+description: Cette fiche présente un retour d'expérience de ma migration en cours vers des outils libres et conviviaux. Migration d'un Mac ous sUbuntu, migration vers des hebergeurs web éthique, degooglization.
+image_url: 
+---
+
+-->
+
+
+# Migrer vers de outils libres et conviviaux 
+
+Cette fiche présente un retour d'expérience de ma migration en cours vers des outils libres et conviviaux. Migration d'un Mac ous sUbuntu, migration vers des hebergeurs web éthique, degooglization.
 
 
 # Migrer un mac sous Linux
