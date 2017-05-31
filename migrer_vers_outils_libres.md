@@ -306,7 +306,18 @@ Once my account was setup, the migration process was fairly straight-forward:
 I had a couple of choices when migrating all of my email messages:
 
 
+## Google Search -> DuckDuckGo
 
+J'ai très facilement quitté la recherche google depuis les révélation des Snowden et je suis passé sur DuckDuckGo qui ne trace pas ses usagers.
+
+Même si la recherche est legerement moins performante pour les sites en français, l'outil marche très bien. Depuis 2013, DuckDuckGo est mon moteur par défaut et je ne suis jamais revenu en arrière.
+
+Je continu à utiliser onctuellement google pour des recherches speicfiques, quand DuckDuckGo ne suffit pas (en français par exemple ou pour les images).
+
+Dans ce cas, j'utilise les recherches bang!
+
+g! + mots clés = recherche directe dans google
+gi! + mots clés = recherche directe dans google images (pratique pour trouver des images en creative commons)
 
 
 
@@ -317,5 +328,11 @@ Le logiciel de bureau Marp premet de créer tre ssimplement des presentations au
 Même si les présentations ont une limite de complexité, elle suffisent pour des diapos basiques (titre, image de fond, liste à puce, ...)
 
 en utilisant les commentaires markdown, il est même possible de rajouter dans le contenu de la prez des notes de présentateurs, ainsi la même fiche peut servir en format présentation ou texte plus complet.
+
+## Google texte -> pad, hackmd
+
+les pads sont moins puissants, mais facile à créer, possèdes fonctions d'accès privés.
+
+les hackmd ressemblent aux hackpad, mais utilisent markdown.
 
 
