@@ -1,9 +1,10 @@
 <!--
 
 ---
-title: Synchronisation dossier local-github avec sparkleshare
-description: Dans ce tutoriel je décris l'installation et l'utilisation de SparkleShare afin d'éditer des fiches recettes sur mon bureau linux avec un simple éditeur texte et d'avoir une publication automatique en ligne sur github et multibao.
+title: Productivité sur Linux / Ubuntu
+description: Voici ma sélection de logiciels pour travailler de manière productive avec ubuntu.
 image_url: 
+licence: CC-BY-SA
 ---
 
 -->
