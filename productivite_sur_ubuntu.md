@@ -1,56 +1,59 @@
-# Productivité sur Linux / Ubunti
+# Productivité sur Linux / Ubuntu
 
 Voici ma sélection de logiciels pour travailler de manière productive avec ubuntu.
 
-## Wine 
-
+## Emulateur Windows
+- Wine 
 Emulateur Windows pour faire tourner des programmes PCs
 
-## Horloge GNOME
-
+## Chronométre/horloge
+- Horloge GNOME
 Chrono pour gérer les pomodoros
 
-## Simple scan
+## Scanner
+- Simple scan
 
-Gestion scanner
+## PDF
+- PDF-Schuffler
+Fusionner et réorganise des PDFs
 
+## Copier/aspirer localement un site web
+- WebHttrack Website copier
 
-## PDF-Schuffler
+## Traitement image / photo
+- Gimp
 
-Fsionner et réorganise des PDFs
-
-## WebHttrack Website copier
-
-copier/aspirer localement un site web
-
-## Gimp
-
-Traitement image / photo
-
-## Marp
+## Présentations 
+- Marp
 
 Présentation en format markdown avec export PDFs
 
-## Soundjuicer
+## Extraction de CD audio
+- Soundjuicer
 
-Extraction de CD audio
+## Transfert de fichier par FTP
+- Filezilla
 
-## Filezilla
-
-Logiciel de transfert de fichier par FTP
-
-## Gedit
+## Traitement de texte
+- Gedit
 Traitement de texte tres simple qui permet de gérer markdown et couplé avec filezilla
 
-## Freeplane
+## Bureautique
+- Libre Office
 
-Logiciel de mindmapping
+## Mindmapping
+- Freeplane
 
-## Zim
+## Wiki de bureau
+- Zim
 
-Wiki de bureau
+## Git
+- Sparkleshare: Logiciel de synchronisation avec Github pour usage type dropbox.
 
-## Sparkleshare
+## Partionner un disque dur
+- Gparted
 
-Logiciel de synchronisation avec Github pour usage type dropbox.
+## Métronome
+- Gtick
+
 
