@@ -235,6 +235,8 @@ base de données + FTP
 
 ## Degooglization
 
+pas encore réussi a trouver le temps sde franchir le pas, mais presque pret.
+
 ### GMail: Migration mail depuis google
 
 Nouveau serveur mail
