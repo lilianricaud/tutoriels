@@ -1,7 +1,6 @@
-# Outils Linux
+# Productivité sur Linux / Ubunti
 
-
-Voici ma sélection de logiciels pour travailler sur ubuntu.
+Voici ma sélection de logiciels pour travailler de manière productive avec ubuntu.
 
 ## Wine 
 
@@ -50,3 +49,8 @@ Logiciel de mindmapping
 ## Zim
 
 Wiki de bureau
+
+## Sparkleshare
+
+Logiciel de synchronisation avec Github pour usage type dropbox.
+
