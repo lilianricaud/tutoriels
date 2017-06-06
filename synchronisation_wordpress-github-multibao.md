@@ -68,8 +68,6 @@ Dans ce cas, le contenu du repo github choisi sera récupéré et publié dans W
 
 
 
-
-
 ## Pourquoi synchroniser entre WordPress et Github ?
 
 A l'heure actuelle beaucoup de personnes publient des contenus sur leur site et WordPress est l'un des système de gestion de contenu les plus utilisés (20% du web environ tourne sous Wordpress).
