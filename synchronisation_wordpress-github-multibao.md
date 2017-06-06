@@ -46,11 +46,25 @@ Dans la page réglages rentrez les infos suivantes:
 - Repository: le répo github avec lequels les contenus seront synchronisés/ L'adresse doit être du type: nom-utilisateur/nom-repo par exemple "lilianricaud/tutoriels"
 - Oauth Token: copiez collez le code généré précédemment
 - Webhook Secret: rentrez un mot de passe fort (pas sur de savoir à quoi il sert, mais il faut le faire).
+- enregistrez les modifications.
 
 ### Exportez du contenu WordPress -> GitHub
 
+Cliquer simplement sur "Export to GitHub". 
 
+Le contenu publié sera disponible dans le repo github:
 
+- https://github.com/nom_utilisateur/nom_repo
+
+et lisible via MultiBAO à:
+
+- http://www.multibao.org/nom_utilisateur/nom_repo
+
+### Importez du contenu GitHub -> WordPress
+
+Cliquer simplement sur "Import from GitHub"
+
+Dans ce cas, le contenu du repo github choisi sera récupéré et publié dans WordPress.
 
 
 
@@ -63,3 +77,7 @@ A l'heure actuelle beaucoup de personnes publient des contenus sur leur site et 
 Pourtant même si leurs auteur souhaitent partager leurs contenus/publications et les mettent en licence libre, en pratique ce partage n'est pas aisé, car le contenu n'est pas facilement reduplicable. 
 
 Multibao part du principe que markdown, un format de formattage texte léger est un standard plus facile a utiliser que le HTML pour partager des contenus.
+
+## Source
+
+- CC-BY-SA Lilian Ricaud
