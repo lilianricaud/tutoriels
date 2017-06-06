@@ -24,18 +24,36 @@ Pour synchroniser facilement des publications entre WordPress et Github, c'est u
 
 Pour cela
 
-- sur votre site wordpress, identifiez vous et allez dans votre tableau de bord (vous devez être administrateur)
+### Configuration Github
+
+Dans GitHub: 
+-  créer un repo où vous souhaitez que les contenus soit synchronisés. Pour cela cliquer sur le signe + en haut à gauche puis "New repository" (https://github.com/new). IMPORTANT: N'oubliez pas de cliquer sur "Initialize this repository with a README" pour que le repo soit utilisable directement.
+- générez un code "Oauth Token" à la page suivante: https://github.com/settings/tokens/new . Gardez ce code de coté, il vous sera demandé ensuite pour autoriser Wordpress à accéder à lire/écrire sur votre compte github. (Note: lors de la génération du code, j'ai coché toutes les options demandés pas sur que cela soit bon en terme de sécurité. a vérifier)
+
+### Configuration WordPress
+
+Sur votre site wordpress (vous devez disposee d'un site WordPress que vous gérez vous même et pas d'une instance WordPress.com):
+
+-  identifiez vous et allez dans votre tableau de bord (vous devez être administrateur)
 - allez dans Extensions > Ajouter 
 - cherchez, installez puis activez l'extension WordPress GitHub Sync (https://wordpress.org/plugins/wp-github-sync/#description). Cette extension fera le travail de synchtonisation
 - cherchez, installez puis activez l'extension WP-Markdown (https://wordpress.org/plugins/wp-markdown/). Cette extension permet l'écriture et l'import/export en format markdown.
-- dans github, créer un repo où vous souhaitez. Pour cela cliquer sur le signe + en haut à gauche puis "New repository" (https://github.com/new). IMPORTANT: N'oubliez pas de cliquer sur "Initialize this repository with a README" pour que le repo soit utilisable directement.
-- Revenez dans le tableau de bord WordPress et Allez dans Réglages > GiHub Sync
+- Allez dans Réglages > GiHub Sync. 
 
-GitHub hostname
+Dans la page réglages rentrez les infos suivantes: 
+
+- GitHub hostname: laissez le contenus existant (https://api.github.com)
+- Repository: le répo github avec lequels les contenus seront synchronisés/ L'adresse doit être du type: nom-utilisateur/nom-repo par exemple "lilianricaud/tutoriels"
+- Oauth Token: copiez collez le code généré précédemment
+- Webhook Secret: rentrez un mot de passe fort (pas sur de savoir à quoi il sert, mais il faut le faire).
+
+### Exportez du contenu WordPress -> GitHub
 
 
 
-https://github.com/settings/tokens/new
+
+
+
 
 
 ## Pourquoi synchroniser entre WordPress et Github ?
