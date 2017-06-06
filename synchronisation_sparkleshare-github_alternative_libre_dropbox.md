@@ -12,7 +12,7 @@ licence: CC-BY-SA
 
 # Utilisation de Sparkleshare avec Github
 
-Dans ce tutoriel je décris comment syncrhoniser en 5 minutes un dossier local sur votre ordinateur et un repertoire Github. Ceci se fait via l'installation et l'utilisation du logiciel SparkleShare. Pour les commoners qui souhaitent mutualiser leurs publication, ceci permet un usgae de type dropbox où on travaille en local et les contenus sont ensuite synchronisés avec Github et affichables sous MultiBAO.
+Dans ce tutoriel je décris comment synchoniser en 5 minutes un dossier local sur votre ordinateur et un repertoire Github. Ceci se fait via l'installation et l'utilisation du logiciel SparkleShare. Pour les commoners qui souhaitent mutualiser leurs publication, ceci permet un usgae de type dropbox où on travaille en local et les contenus sont ensuite synchronisés avec Github et affichables sous MultiBAO.
 
 Dans mon cas, ceci me permet d'éditer des fiches recettes sur mon bureau linux avec un simple éditeur texte et d'avoir une publication automatique en ligne sur github et multibao où elles peuvent être consultées, copiées ou enrichies par d'autres sans nécessiter aucun travail supplémentaire de ma part.
 
