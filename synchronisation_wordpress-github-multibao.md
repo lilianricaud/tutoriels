@@ -66,7 +66,11 @@ Cliquer simplement sur "Import from GitHub"
 
 Dans ce cas, le contenu du repo github choisi sera récupéré et publié dans WordPress.
 
+### Cas où vous utilisez des custom post types
 
+Si comme moi vous avez utilisé des custom post pour une raison quelquonque, l'exporteur ne fonctionnera pas.
+
+Pour palier à cela, vous pouvez cependant convertir vos custom post en pages grace a l'excellent plugin Post-type switcher (https://wordpress.org/plugins/post-type-switcher/) avant de faire la manip d'export.
 
 ## Pourquoi synchroniser entre WordPress et Github ?
 
