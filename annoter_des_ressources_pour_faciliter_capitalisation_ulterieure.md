@@ -1,4 +1,16 @@
-# Annoter des ressources pour faciliter la capitalisation
+<!--
+
+---
+title: Annoter des ressources pour faciliter la capitalisation ultérieure
+description: Quelques idées de bonnes pratiques pour que des contenus co-créés soient plus facilement réexploités par d'autres plus tard.
+image_url:
+licence: CC-BY-SA 
+---
+
+-->
+
+
+# Annoter des ressources pour faciliter la capitalisation ultérieure
 
 Souvent les collectifs de commoners co-créent des contenus et les mettent partage, nottament via des pads. Pourtant la plupart du temps les contenus crées par les contributeurs ne sont pas réexploités car il est difficile de revenir après coup sur un document pour en extraire les meilleures infos.
 
