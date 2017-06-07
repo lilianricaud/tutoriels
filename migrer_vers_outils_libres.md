@@ -2,7 +2,7 @@
 
 ---
 title: Migrer vers de outils libres et conviviaux 
-description: Cette fiche présente un retour d'expérience de ma migration en cours vers des outils libres et conviviaux. Migration d'un Mac ous sUbuntu, migration vers des hebergeurs web éthique, degooglization.
+description: Cette fiche présente un retour d'expérience de ma migration en cours vers des outils libres et conviviaux. Migration d'un Mac sous Ubuntu, migration vers des hebergeurs web éthique, degooglization.
 image_url: 
 ---
 
@@ -11,7 +11,7 @@ image_url:
 
 # Migrer vers de outils libres et conviviaux 
 
-Cette fiche présente un retour d'expérience de ma migration en cours vers des outils libres et conviviaux. Migration d'un Mac ous sUbuntu, migration vers des hebergeurs web éthique, degooglization.
+Cette fiche présente un retour d'expérience de ma migration en cours vers des outils libres et conviviaux. Migration d'un Mac sous Ubuntu, migration vers des hebergeurs web éthique, degooglization.
 
 
 # Migrer un mac sous Linux
