@@ -2,7 +2,7 @@
 
 ---
 title: Outils en ligne
-description: Voici une liste d'outils en ligne que j'utilise régulièrement.
+description: Voici une liste d'outils en ligne que j'utilise régulièrement pour travailler de manière simple et efficace.
 image_url: 
 ---
 

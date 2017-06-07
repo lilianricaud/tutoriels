@@ -2,7 +2,7 @@
 
 ---
 title: Productivité sur Linux / Ubuntu
-description: Voici ma sélection de logiciels pour travailler de manière productive avec ubuntu.
+description: Voici ma sélection de logiciels pour travailler de manière simple et efficace avec ubuntu.
 image_url: 
 licence: CC-BY-SA
 ---
