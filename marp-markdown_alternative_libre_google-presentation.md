@@ -1,3 +1,17 @@
+<!--
+
+---
+title: Utiliser Marp et Markdown comme alternative libre à Google Doc
+description: Marp est un logiciel libre assez simple qui permet de faire des présentations en utilisant la syntaxe markdown ce qui permet de le rendre plus facilement exploitable ailleurs sur le bureau d'un ordinateur, un repertoire github, un site wordpress ou un dossier multibao.
+image_url:
+licence: CC-BY-SA 
+---
+
+-->
+
+
+Marp est un logiciel libre assez simple qui permet de faire des présentations en utilisant la syntaxe markdown ce qui permet de le rendre plus facilement exploitable ailleurs sur le bureau d'un ordinateur, un repertoire github, un site wordpress ou un dossier multibao.
+
 # Utiliser Marp et Markdown comme alternative libre à Google Doc
 
 Pendant des années j'utilisais Google doc pour faire de présentations partagées de mes contenus. Problème ce logiciel propriétaires tres puissant enferme dans un format qui oblige les autres utilisateurs à faire de même ou exporter en ppt (verifier pour open document). Ceci rend difficle la collaboration avec les personnes utilisant d'autres formats.
