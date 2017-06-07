@@ -1,3 +1,15 @@
+<!--
+
+---
+title: Créer des fiches patterns pour faciliter le partage de bonnes pratiques
+description: Partager des pratiques n'est pas aussi simple que de partager des codes sources. Ce tutoriel décrit l'usage du format langage de pattern pour faciliter la documentation et le transfert de bonnes pratiques.
+image_url:
+licence: CC-BY-SA 
+---
+
+-->
+
+
 # Créer des fiches patterns pour faciliter le partage de bonnes pratiques
 
 Partager des pratiques n'est pas aussi simple que de partager des codes sources. Dans un esprit d'innovation sociale ouverte, plusieurs collectifs ont tentés de rédiger des "codes sources" de pratiques ou recettes libres. 
