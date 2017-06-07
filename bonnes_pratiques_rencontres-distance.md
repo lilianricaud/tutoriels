@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Bonne pratiques pour les rencontres à distance
+description: Effectuant souvent des visio pour travailler à distance, j'ai souvent a redonner les mêmes informations. Pour simplifier le processus, j'ai compilé sous forme d'un petit tutoriel, les bonnes pratiques que j'utilise. 
+image_url:
+licence: CC-BY-SA 
+---
+
+-->
+
 
 # Bonne pratiques pour les rencontres à distance
 
