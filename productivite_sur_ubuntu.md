@@ -19,7 +19,7 @@ Voici ma sélection de logiciels pour travailler de manière productive avec ubu
 Emulateur Windows pour faire tourner des programmes PCs
 
 ## Chronométre/horloge
-- Horloge GNOME
+- Horloges GNOME
 Chrono pour gérer les pomodoros
 
 ## Scanner
