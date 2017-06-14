@@ -89,6 +89,8 @@ Note sur un bug assez enervant: le curseur de la souris sautait enormément lors
 
 Après desinstallation du pilote de pavé tactile Synaptics pour le serveur X.Org ("xserver-worg-input-synaptics" effectué dans la logithèque) et réinstallation avec le greffon optionnel "dispositif de pointage" (gpointing-device-settings). tout semble marcher.
 
+source: https://forum.ubuntu-fr.org/viewtopic.php?id=310542
+
 # Synchronisation avec outils de cloud
 
 - owncloud: https://software.opensuse.org/download/package?project=isv:ownCloud:desktop&package=owncloud-client
