@@ -1,4 +1,19 @@
+<!--
+
+---
+title: Partager des ressources comme communs sur MultiBAO
+description: Ce tutoriel décrit pourquoi et comment rendre partageables et interopérables des contenus libres avec Github/MultiBAO.
+image_url: 
+licence: CC-BY-SA
+---
+
+-->
+
+
 # Partager des ressources comme communs sur MultiBAO
+
+Ce tutoriel décrit pourquoi et comment rendre partageables et interopérables des contenus libres avec Github/MultiBAO.
+image_url: 
 
 ## Avant de démarrer. 
 
@@ -77,9 +92,6 @@ ajouter le titre avec ".md" à la fin
 sauver "commit new file"
 
 ## Voir se contenus sur multibao
-
-
-
 
 Multibao va chercher dans github les contenus a afficher. En indiquant une adresse d'un fichier .md situé sur github, multibao va être capable de le lire par exemple le fichier:
 
