@@ -56,30 +56,59 @@ charger votre fichier et copier coller le contenu dans votre fichier .md
 
 ## Etape 3 :  mettre ses contenus sur Github
 
+- aller sur http://gihub.com
+- Creer un compte
+- Vous allze recevoir un mail pour valider votre inscription
+
 Faire un dépot (une sorte de dossier)
--> Create new file
-
 Create a repository
+**Important** cocher l'option
+"initialize this repository with a readme"
 
-initialize this repository with a readme
+valider la création
 
 Creer un fichier
 
-sauver avec .md
+-> Create new file
 
-Partager des contenus 
+Vous accédez à une interface d'édition
+ajouter le titre avec ".md" à la fin
+
+sauver "commit new file"
+
+## Voir se contenus sur multibao
 
 
-Multibao va chercher dans github les contenus a afficher
 
 
+Multibao va chercher dans github les contenus a afficher. En indiquant une adresse d'un fichier .md situé sur github, multibao va être capable de le lire par exemple le fichier:
+
+http://www.gihtub.com/lilianricaud/tutoriels/blob/master/partager_des_ressources_communs_multibao.md
+
+Sera visible à l'adresse suivante:
 
 http://www.multibao.org/#lilianricaud/tutoriels/blob/master/partager_des_ressources_communs_multibao.md
+
+**Important**: ne pas oublier de mettre un dieze avant le nom d'utilisateur.
+
+
+## Aller plus loin:
+
+### Synchroniser des dossiers locaux avec Github/multibao
+
+Dans ce tutoriel je décris comment syncrhoniser en 5 minutes un dossier local sur votre ordinateur et un repertoire Github. Ceci se fait via l'installation et l'utilisation du logiciel SparkleShare. Pour les commoners qui souhaitent mutualiser leurs publication, ceci permet un usgae de type dropbox où on travaille en local et les contenus sont ensuite synchronisés avec Github et affichables sous MultiBAO.
+
+- http://www.multibao.org/#lilianricaud/tutoriels/blob/master/synchronisation_sparkleshare-github_alternative_libre_dropbox.md
+
+### Partager du contenu sur d'autres sites:
+
 
 
 
 ### A partir d'un site WordPress
 
-Un tuto pour importer/exporter du contenu entre Wordpress et 
+Ce tutoriel décrit comment synchroniser en 5 minutes des contenus entre un site WordPress et Github, en vue de mutualiser des contenus présents sur un site existant et les rendre partageables et interopérables avec Github/MultiBAO.
+
+Pour les commoners qui souhaitent mutualiser leurs publication qui sont déja sur un site WordPress existant, ceci permet en 5 minutes et sans travail supplémentaire de les partager dans une format interopérable.
 
 - http://www.multibao.org/#lilianricaud/tutoriels/blob/master/synchronisation_wordpress-github-multibao.md
