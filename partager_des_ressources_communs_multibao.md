@@ -69,7 +69,7 @@ Utiliser le service  Word to Markdown :  http://word-to-markdown.herokuapp.com/
 charger votre fichier et copier coller le contenu dans votre fichier .md
 
 
-## Etape 3 :  mettre ses contenus sur Github
+## Etape 2 :  mettre ses contenus sur Github
 
 - aller sur http://gihub.com
 - Creer un compte
@@ -91,7 +91,7 @@ ajouter le titre avec ".md" à la fin
 
 sauver "commit new file"
 
-## Voir se contenus sur multibao
+## Etape 4: Voir se contenus sur multibao
 
 Multibao va chercher dans github les contenus a afficher. En indiquant une adresse d'un fichier .md situé sur github, multibao va être capable de le lire par exemple le fichier:
 
