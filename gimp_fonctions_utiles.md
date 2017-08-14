@@ -4,6 +4,12 @@ Gimp est un logiciel puissant de retouche d'images. Voici quelques fonctions uti
 
 ## Redimensionner des images en lot avec Gimp
 
+Installer le plugin 
+
+http://members.ozemail.com.au/~hodsond/dbp.html
+
+ou plus simple dans la logithèque Ubuntu installer le jeu de plugin "Dépôt d'extensions optionnelles pour GIMP"
+
 Aller dans le menu suivant:
 
 Filtres > Batch > Batch process
