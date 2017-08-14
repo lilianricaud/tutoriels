@@ -4,7 +4,7 @@ Gimp est un logiciel puissant de retouche d'images. Voici quelques fonctions uti
 
 ## Redimensionner des images en lot avec Gimp
 
-Installer le plugin 
+Installer d'abord le plugin DBP (David's Batch Processor)
 
 http://members.ozemail.com.au/~hodsond/dbp.html
 
@@ -22,7 +22,11 @@ Choisir le menu "resize", choisir "keep ratio" pour garder les proportions
 
 Choisir le format de sortie: "Output"
 
-ATTENTION: Gimp va remplacer les anciennes images par les nouvelles, veiller donc à conserver un copie des originalles ailleurs au cas ou
+ATTENTION: par défaut, Gimp va remplacer les anciennes images par les nouvelles, veiller donc à conserver un copie des originalles ailleurs au cas ou.
+
+Pour changer cela, aller dans "rename"
+
+Il est possible de choisir une répertoire d'entrée "source dir" et un répertoire de sortie "select dir"
 
 Pour renomer avec prefixe ou postfixe: "Rename"
 
