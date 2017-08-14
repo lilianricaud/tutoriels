@@ -1,4 +1,6 @@
-# Tutoriel Gimp
+# Fonctions utiles dans Gimp
+
+Gimp est un logiciel puissant de retouche d'images. Voici quelques fonctions utiles.
 
 ## Redimensionner des images en lot avec Gimp
 
