@@ -21,3 +21,10 @@ ATTENTION: Gimp va remplacer les anciennes images par les nouvelles, veiller don
 Pour renomer avec prefixe ou postfixe: "Rename"
 
 Quand tous les réglages ont été choisis, cliquer sur "Start" en bas à gauche de la fenètre.
+
+
+## Source
+CC-BY-SA
+Lilian Ricaud 
+
+
