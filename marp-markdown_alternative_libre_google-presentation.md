@@ -54,6 +54,8 @@ https://yhatt.github.io/marp/
 
 ![](marp-demo-presentation.gif)
 
+! 
+
 Seules nouvelles balises à retenir par rapport au markdown standard: 
 - l'option bg pour ajouter une image de fond atténuée pour que le texte soit lisible (ou bg original pour garder les couleurs originales non-atténuées)
 - l'usage de trois tirets pour séparer les diapos.
