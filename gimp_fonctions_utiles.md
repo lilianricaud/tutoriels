@@ -7,6 +7,14 @@ Gimp est un logiciel puissant de retouche d'images. Voici quelques fonctions uti
 - Sélectionner la zone à rogner
 - Image > rogner selon la sélection
 
+## Energistrer l'image
+
+pour avoir des images en jpg, choisir:
+- Fichier > Exporter comme
+
+Pour réenrgistrer une image déja en jpg, choisir:
+- Fichier > Ecraser "nom de l'image"
+
 ## Gestion des calques
 
 - Afficher la barre d'outils
