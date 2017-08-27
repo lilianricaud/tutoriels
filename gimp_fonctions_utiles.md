@@ -2,6 +2,18 @@
 
 Gimp est un logiciel puissant de retouche d'images. Voici quelques fonctions utiles.
 
+## Rogner des images
+
+- Sélectionner la zone à rogner
+- Image > rogner selon la sélection
+
+## Gestion des calques
+
+- Afficher la barre d'outils
+- coller l'image
+- dans la barre de gestion des calques choisir l'image appellée "sélection flottante", puis avec un clic droit choisir l'option "vers nouveau calque".
+
+
 ## Redimensionner des images en lot avec Gimp
 
 Installer d'abord le plugin DBP (David's Batch Processor)
