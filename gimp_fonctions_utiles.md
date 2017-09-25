@@ -7,7 +7,7 @@ Gimp est un logiciel puissant de retouche d'images. Voici quelques fonctions uti
 - Sélectionner la zone à rogner
 - Image > rogner selon la sélection
 
-## Energistrer l'image
+## Enregistrer l'image
 
 pour avoir des images en jpg, choisir:
 - Fichier > Exporter comme
@@ -20,6 +20,12 @@ Pour réenrgistrer une image déja en jpg, choisir:
 - Afficher la barre d'outils
 - coller l'image
 - dans la barre de gestion des calques choisir l'image appellée "sélection flottante", puis avec un clic droit choisir l'option "vers nouveau calque".
+
+## Nettoyer une image scannée
+
+Utiliser la fonction Couleurs > Luminosité-contraste 
+
+en augmentant la luminosité et le contraste ont peut nettoyer un fond peu propre
 
 
 ## Redimensionner des images en lot avec Gimp
@@ -42,7 +48,7 @@ Choisir le menu "resize", choisir "keep ratio" pour garder les proportions
 
 Choisir le format de sortie: "Output"
 
-ATTENTION: par défaut, Gimp va remplacer les anciennes images par les nouvelles, veiller donc à conserver un copie des originalles ailleurs au cas ou.
+ATTENTION: par défaut, Gimp va remplacer les anciennes images par les nouvelles, veiller donc à conserver un copie des originales ailleurs au cas ou.
 
 Pour changer cela, aller dans "rename"
 
