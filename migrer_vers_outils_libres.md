@@ -218,6 +218,7 @@ J'utilisais depuis 10 ans Dreamhost un hebergeur américain qui marche très bie
 - OVH
 - Web4all
 - Ouvaton
+- Zaklys
 
 Comparaison:
 Dreamhost et OVH sont de bonne qualité, cout modique, mais sont de gros hébergeurs, utilisant plusieurs datacenters internationaux. Ouvaton est le plus affiché avec une éthique, mais qualité limité, cout élevé. Web4all ets une association qui developpe une partie de son infrastucture et s'appuie sur une infrastructure tierce (utilise des serveurs chez OVH et d'autres, privilégie hebergement en france avec partenaire français et s'appuie sur des tunnels VPN pour faire transiter les données de manière sécurisée.
@@ -225,6 +226,8 @@ Dreamhost et OVH sont de bonne qualité, cout modique, mais sont de gros héberg
 Autre avantage pour Web4all, utilise Zimbra pour la gestion des mail (solution open source) ce qui semble un point fort pour faciliter la bascule depuis google. le cout est plus élevé que les autres hebergeurs (à part Ouvaton), mais reste correct.
 
 Test 3 mois offre de base (10 sites web, 25 comptes mails): 18€ TTC
+
+Zaklys: associatif + cloud pas cher + mail (webmail roundcube) https://cloud.zaclys.com/
 
 ### Migration site web
 
