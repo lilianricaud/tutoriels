@@ -2,6 +2,10 @@
 
 Gimp est un logiciel puissant de retouche d'images. Voici quelques fonctions utiles.
 
+## Faire apparaitre la boite à outils
+
+Ctrl+B
+
 ## Rogner des images
 
 - Sélectionner la zone à rogner
