@@ -31,13 +31,26 @@ Pour être efficace, je vous propose que nous limitions notre échange à 45 min
 
 ## Outils de Visio
 
+
 ### Framatalk
 Arrivé recemment il marche plutot bien avec peu de fonctionnalités, mais efficace:
 
 - Créer une nouvelle visio: https://framatalk.org/
 - Se connecter à une viso existante pour m'appeller: https://framatalk.org/liric
 
-Note: Necessite Mozilla Firefox ou Google Chrome. A la connexion à la viso il faut autoriser l'accès au micro et à la webcam quand cela est demandé.
+Note: Necessite Mozilla Firefox ou Google Chrome. A la connexion à la viso il faut autoriser l'accès au micro et à la webcam quand cela est demandé.Parfois certains bug de connexion quand on est nombreux.
+
+### Appear.in
+
+Fonctionne comme framatalk, mais plus stable.
+
+Aller sur:
+https://appear.in/
+
+Choisir un nom pour la visio
+
+A la connexion à la visio il faut autoriser l'accès au micro et à la webcam quand cela est demandé.
+
 
 ### Skype
 
