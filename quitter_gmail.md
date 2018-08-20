@@ -34,7 +34,11 @@ Pour gérer mes mail j'ai installé thunderbird en imap.
 Thunderbird permet d'avoir ses mails en local hors connexion avec synchronisation avec le compte en ligne lorsque l"on est connecté.
 
 Pour garder certaines fonctionnalités que j'appréciai chez gmail j'ai personnalisé thunderbird
-- activation des conversations
+- activation des conversations + ajout de l'extension Thunderbird conversations qui affiche vos emails sous la forme de "conversations" comme sur Gmail. Vos emails sont regroupés et s'affichent sous forme de résumés de fils de discussion
+- import de contact avec l'extension gContactSync qui va récuperer tous vos contacts depuis gmail (note cette extension peut aussi récuperer vos contact facebook et twitter. sous quelle forme?)
+- création de filtres pour les messages.
+- choisir ses dossiers préférés puis mettre l'affichage des dossier en mode dossier préférés + vue compacte
+- personnaliser le choix et l'ordre des colonnes dans la boite d'affichage des messages.
 
 
 ### Alternatives à gmail
