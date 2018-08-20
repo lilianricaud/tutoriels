@@ -1,5 +1,5 @@
 
-# Degooglization
+# Se degoogliser
 
 Au cours des dernières années j'ai réduit l'usage des outils google big brother devenu bien trop puissant. A la place des outils google j'ai trouver des alternatives qui me permettent en grande partie de conserver mes habitudes avec très peu de pertes de fonctionnalités. 
 
@@ -48,5 +48,5 @@ Même si depuis 2005 j'étais conscient de l'espionnage pratiqué par google (ma
 
 Enfin cela été chose faite et j'utilise maitenant Thunderbird pour lire mes mails hébergés chez Ouvaton, hebergeur coopératif et éthique francophone.
 
-J'
+Voir le tuto: QUITTER GMAIL 
 
