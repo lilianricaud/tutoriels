@@ -80,6 +80,11 @@ Applis installées:
 - winscop (gestion comptabilité pour les CAEs)
 - Zim (wiki de bureau utilisant des fichiers textes)
 - audacity (edition audio)
+- Thunderbird (mail)
+- Gparted (partition disque dur)
+- Simple scan (gestionnaire scanner)
+- Sound Juicer (extracteur audio)
+- Horloge gnome (chronometre)
 
 Voir la liste des logiciels dans le tuto productivité avec ubuntu.
 
@@ -100,7 +105,9 @@ source: https://forum.ubuntu-fr.org/viewtopic.php?id=310542
 
 ## Cloud public Github
 
-L'idée est de rendre directement partageables et améliorables les documents destinés a être partagés et eventuellement amélioré via github utilisé à la fois comme outil collaboratif et comme cloud public
+L'idée est de rendre directement partageables et améliorables les documents destinés a être partagés et eventuellement amélioré via github utilisé à la fois comme outil collaboratif et comme cloud public.
+
+Plusieurs outils testés, l'outil retenu est Sparkleshare qui permet une synchronisation automatique entre un dossier local et un dépot github.
 
 ### Github Desktop
 
@@ -159,9 +166,10 @@ pas de documentation en ligne et aide sommaire dans le logiciel.
 A l'air bien, mais prise en main complexe si on connait mal le monde git.
 
 ### Test GitKraken
-a l'air puissant.téléchargé, ne s'ouvre pas, semble que la version est pour architecture 64 bit. :-/
 
-l'autre version Gzip (fedora, ubuntu debian) se télécharge mais l'appli ne se lance pas :-/
+Outil puissant notamment pour la gestion des branches, mais pas forcement intuitif quand on est pas familier avec git. a noter la version linux est pour uniquement pour des ordinateurs avec architecture 64 bit. :-/
+
+
 
 ### Sparkleshare
 
@@ -172,10 +180,9 @@ L'outill marche tres bien pour un usage de type dropbox: on enerigistre ses fich
 Voir le tuto dans le même dossier.
 
 
-
 ## Cloud Semi public Owncloud
 
-L'idée est d'avoir un synchro cloud qui permette à la fois d'avoir une sauvegarde et un accès via d'autres postes de travail à certains docs. Ces docs sont sempi publics c'est a dire a priori destinés a être partagés, même s'il ne sont pas public en permanence et/ou accessible sous certaines conditions.
+L'idée est d'avoir un synchro cloud qui permette à la fois d'avoir une sauvegarde et un accès via d'autres postes de travail à certains docs. Ces docs sont semi-publics c'est a dire a priori destinés a être partagés, même s'il ne sont pas public en permanence et/ou accessible sous certaines conditions.
 
 ### Installation de Owncloud
 
@@ -229,17 +236,41 @@ Test 3 mois offre de base (10 sites web, 25 comptes mails): 18€ TTC
 
 Zaklys: associatif + cloud pas cher + mail (webmail roundcube) https://cloud.zaclys.com/
 
-### Migration site web
+## Migration site web
 
-base de données + FTP
+Après avoir longtemps hésité j'ai choisi de migrer chez ouvaton, coopérative d'hébergement basée en France avec des valeurs et une éthique forte autour de l'humain, l'autonomie et le libre (Ouvaton est dans une démarche de mise en place de CHATONs framasoft)
+
+Etapes de Migration site web
+
+- creer espace web pour le nom domaine chez ouvaton
+- faire une sauvegardes des fichiers de mon site web avec filezilla
+- faire une sauvegarde de la base de données mysql (format .sql et compression gzip) via PhpMyAdmin
+- charger les fichiers du site web dans l'espace ftp ouvaton
+- importer la base de données dans le PhpMyAdmin ouvaton.
+- modifier les DNS chez le registrar (gandi) pour pointer vers ouvaton (ns1.ouvaton.coop, ns2..., ns3...)
+
+## Migration mail
+
+Après plus de 15 d'addiction à gmail (qui a été pendant longtemps le mail avec la meilleure ergonomie, fonctionnalités, filtre antispam, capacité de stockage) j'ai enfin réussi à migrer.
+
+Pendant longtemps j'utilisai une adresse gmail comme compte principal et une autre adresse avec mon nom de domaine, mais elle aussi basée sur gmail qui faisait suivre à la première adresse d'où je pouvais répondre avec l'une ou l'autre. 
+
+Je recevais donc tous les mails sur une seule adresse.
+
+La première étape à consister à habituer mes contacts à ne plus écrire sur mon adresse gmail, en utilisant systématiquement l'adresse de mon nom de domaine.
+
+Ensuite j'ai migré cette adresse chez ouvaton. Pour cela j'ai d'abord configuré le mail chez ouvaton puis la bascule vers le nouvel hébergeur s'est fait en même temps lors du changement des DNS chez gandi.
+
+### Comment garder ses habitudes quand on quitte gmail
+
+Pour gérer mes mail j'ai installé thunderbird en imap.
+
+Thunderbird permet d'avoir ses mails en local hors connexion avec synchronisation avec le compte en ligne lorsque l"on est connecté.
+
+Pour garder certaines fonctionnalités que j'appréciai chez gmail j'ai personnalisé thunderbird
+- activation des conversations
 
 
-- export contenu wordpress site test (sans fichiers joints)
-
-- Config domaine chez Web4all
-
-- Changement DNS chez Gandi avec DNS Web4all:
- ns1.web4all.fr  ns2.web4all.fr  ns3.web4all.fr 
 
 
 
@@ -247,6 +278,42 @@ base de données + FTP
 ## Degooglization
 
 pas encore réussi a trouver le temps de franchir le pas, mais presque pret.
+
+
+
+## Google Search -> DuckDuckGo
+
+J'ai très facilement quitté la recherche google depuis les révélation des Snowden et je suis passé sur DuckDuckGo qui ne trace pas ses usagers.
+
+Même si la recherche est legerement moins performante pour les sites en français, l'outil marche très bien. Depuis 2013, DuckDuckGo est mon moteur par défaut et je ne suis jamais revenu en arrière.
+
+Je continu à utiliser onctuellement google pour des recherches speicfiques, quand DuckDuckGo ne suffit pas (en français par exemple ou pour les images).
+
+Dans ce cas, j'utilise les recherches bang!
+
+g! + mots clés = recherche directe dans google
+gi! + mots clés = recherche directe dans google images (pratique pour trouver des images en creative commons)
+
+
+
+## Google Slides -> Markdown presentation
+
+Le logiciel de bureau Marp premet de créer tre ssimplement des presentations au format markdown. Les contenus sont donc plus facilement interopérables avec d'autres outils.
+
+Même si les présentations ont une limite de complexité, elle suffisent pour des diapos basiques (titre, image de fond, liste à puce, ...)
+
+en utilisant les commentaires markdown, il est même possible de rajouter dans le contenu de la prez des notes de présentateurs, ainsi la même fiche peut servir en format présentation ou texte plus complet.
+
+## Google texte -> pad, hackmd
+
+les pads sont moins puissants, mais facile à créer, possèdes fonctions d'accès privés.
+
+les hackmd ressemblent aux hackpad, mais utilisent markdown.
+
+
+
+
+### Alternatives à gmail
 
 ### GMail: Migration mail depuis google
 
@@ -317,35 +384,4 @@ Once my account was setup, the migration process was fairly straight-forward:
     Begin the tedious process of updating email address everywhere.
 
 I had a couple of choices when migrating all of my email messages:
-
-
-## Google Search -> DuckDuckGo
-
-J'ai très facilement quitté la recherche google depuis les révélation des Snowden et je suis passé sur DuckDuckGo qui ne trace pas ses usagers.
-
-Même si la recherche est legerement moins performante pour les sites en français, l'outil marche très bien. Depuis 2013, DuckDuckGo est mon moteur par défaut et je ne suis jamais revenu en arrière.
-
-Je continu à utiliser onctuellement google pour des recherches speicfiques, quand DuckDuckGo ne suffit pas (en français par exemple ou pour les images).
-
-Dans ce cas, j'utilise les recherches bang!
-
-g! + mots clés = recherche directe dans google
-gi! + mots clés = recherche directe dans google images (pratique pour trouver des images en creative commons)
-
-
-
-## Google Slides -> Markdown presentation
-
-Le logiciel de bureau Marp premet de créer tre ssimplement des presentations au format markdown. Les contenus sont donc plus facilement interopérables avec d'autres outils.
-
-Même si les présentations ont une limite de complexité, elle suffisent pour des diapos basiques (titre, image de fond, liste à puce, ...)
-
-en utilisant les commentaires markdown, il est même possible de rajouter dans le contenu de la prez des notes de présentateurs, ainsi la même fiche peut servir en format présentation ou texte plus complet.
-
-## Google texte -> pad, hackmd
-
-les pads sont moins puissants, mais facile à créer, possèdes fonctions d'accès privés.
-
-les hackmd ressemblent aux hackpad, mais utilisent markdown.
-
 
