@@ -1,3 +1,14 @@
+<!--
+
+---
+title: Migrer vers un serveur web éthique
+description: J'utilisais depuis 10 ans Dreamhost un hebergeur américain qui marche très bien. Mais je voulais "rapprocher" mes données et entamer une démarche de maitrise du contenu. Voici la démarche.
+image_url:
+licence: CC-BY-SA 
+---
+
+-->
+
 # Migrer vers un serveur web éthique
 
 J'utilisais depuis 10 ans Dreamhost un hebergeur américain qui marche très bien. Mais je voulais "rapprocher" mes données et entamer une démarche de maitrise du contenu.

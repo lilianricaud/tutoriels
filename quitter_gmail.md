@@ -1,3 +1,15 @@
+<!--
+
+---
+title: Quitter Gmail
+description: Voici comment j'ai quitté gmail après plus de 15 ans d'addiction.
+image_url:
+licence: CC-BY-SA 
+---
+
+-->
+
+
 # Quitter Gmail
 
 Gmail a été le plus difficile à quitter, non par difficulté technique mais pas confort. Utilisant gmail activement depuis 2005, je trouvai difficile d'avoir outil qui soit à la fois très fiable techniquement, rapide, avec une forte capacité de stockage, un bon antispam, une bonne ergonomie. J'étais accros à de petites fonctionnalités simples mais puissantes comme l'affichage des messages par conversations, la gestion de multiples adresses mail, l'annulation de l'envoi par erreur...

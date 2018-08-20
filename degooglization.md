@@ -1,5 +1,16 @@
+<!--
 
-# Se degoogliser
+---
+title: Se degoogliser / trouver des alternatives aux produits google
+description: Au cours des dernières années j'ai réduit l'usage des outils google big brother devenu bien trop puissant. A la place des outils google j'ai trouver des alternatives qui me permettent en grande partie de conserver mes habitudes avec très peu de pertes de fonctionnalités. 
+image_url:
+licence: CC-BY-SA 
+---
+
+-->
+
+
+# Se degoogliser / trouver des alternatives aux produits google
 
 Au cours des dernières années j'ai réduit l'usage des outils google big brother devenu bien trop puissant. A la place des outils google j'ai trouver des alternatives qui me permettent en grande partie de conserver mes habitudes avec très peu de pertes de fonctionnalités. 
 
@@ -50,3 +61,8 @@ Enfin cela été chose faite et j'utilise maitenant Thunderbird pour lire mes ma
 
 Voir le tuto: QUITTER GMAIL 
 
+
+## Aller plus loin
+
+Degooglisons internet: plein d'alternatives libres aux outils en ligne
+http://degooglisons-internet.org
