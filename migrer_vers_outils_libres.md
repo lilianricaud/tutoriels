@@ -29,6 +29,8 @@ Voir le tuto mettre_en_place_clouds_publics_et_prives.md
 
 J'utilisais depuis 10 ans Dreamhost un hebergeur américain qui marche très bien. Mais je voulais "rapprocher" mes données et entamer une démarche de maitrise du contenu.
 
+MIGRER VERS UN EHEBERGEUR WEB ETHIQUE
+
 ## Se degoogliser / mettre en place des alternatives aux outils google
 
 Voir les tutos: SE DEGOOGLISER et QUITTER GMAIL.

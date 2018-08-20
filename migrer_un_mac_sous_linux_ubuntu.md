@@ -1,4 +1,18 @@
-# Migrer un mac sous Linux
+<!--
+
+---
+title: Migrer un mac sous Linux Ubuntu
+description: Voici comment j'ai très simplement migré mon mac sous linux Ubuntu.
+image_url:
+licence: CC-BY-SA 
+---
+
+-->
+
+
+# Migrer un mac sous Linux Ubuntu
+
+Voici comment j'ai très simplement migré mon mac sous linux Ubuntu.
 
 ## Remplacement du disque dur
 

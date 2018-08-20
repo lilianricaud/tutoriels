@@ -1,5 +1,18 @@
+<!--
+
+---
+title: Mettre en place des espaces clouds publics et privés
+description: Voici comment j'ai comment j'ai mis en place différents espace "cloud" pour partager des documents de manièr eplus ou moins ouverte pour mutualiser et collaborer facilement tout en conservant ma vie privée. 
+image_url:
+licence: CC-BY-SA 
+---
+
+-->
+
 
 # Mettre en place des espaces clouds publics et privés
+
+Voici comment j'ai comment j'ai mis en place différents espace "cloud" pour partager des documents de manièr eplus ou moins ouverte pour mutualiser et collaborer facilement tout en conservant ma vie privée. 
 
 ## Synchronisation avec outils de cloud
 
