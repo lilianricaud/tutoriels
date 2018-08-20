@@ -9,11 +9,32 @@ Enfin cela été chose faite et j'utilise maitenant Thunderbird pour lire mes ma
 
 
 
-## Processus de migration mail
+## Processus de migration mail 
 
-- études des différentes alternatives à gmail en terme d'hebergement et d'interfaces
-- choix d'un hebergeur: Ouvaton
-- 
+Après plus de 15 d'addiction à gmail (qui a été pendant longtemps le mail avec la meilleure ergonomie, fonctionnalités, filtre antispam, capacité de stockage) j'ai enfin réussi à migrer.
+
+Pendant longtemps j'utilisai une adresse gmail comme compte principal et une autre adresse avec mon nom de domaine, mais elle aussi basée sur gmail qui faisait suivre à la première adresse d'où je pouvais répondre avec l'une ou l'autre. 
+
+Je recevais donc tous les mails sur une seule adresse.
+
+La première étape à consister à habituer mes contacts à ne plus écrire sur mon adresse gmail, en utilisant systématiquement l'adresse de mon nom de domaine.
+
+La deuxième étape a été d'étudier les différentes alternatives à gmail en terme d'hebergement et d'interfaces. (voir la liste des alternatives plus bas). Mon choix s'est finalement porté sur Ouvaton, coopérative d'hébergement basée en France avec des valeurs et une éthique forte autour de l'humain, l'autonomie et le libre (Ouvaton est dans une démarche de mise en place de CHATONs framasoft)
+
+Ensuite j'ai migré mon adresse mail chez ouvaton. Pour cela j'ai d'abord configuré le mail chez ouvaton puis la bascule vers le nouvel hébergeur s'est fait en même temps lors du changement des DNS chez gandi.
+
+J'ai ensuite installé thunderbird sur mon ordinateur et je l'ai personnalisé pour garder des fonctionnalités que j'aimais chez gmail.
+
+### Personnaliser thunderbird pour remplacer gmail
+
+Comment garder ses habitudes quand on quitte gmail pour thunderbird ?
+
+Pour gérer mes mail j'ai installé thunderbird en imap.
+
+Thunderbird permet d'avoir ses mails en local hors connexion avec synchronisation avec le compte en ligne lorsque l"on est connecté.
+
+Pour garder certaines fonctionnalités que j'appréciai chez gmail j'ai personnalisé thunderbird
+- activation des conversations
 
 
 ### Alternatives à gmail
