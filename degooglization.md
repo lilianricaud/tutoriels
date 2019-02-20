@@ -61,6 +61,10 @@ Enfin cela été chose faite et j'utilise maitenant Thunderbird pour lire mes ma
 
 Voir le tuto: QUITTER GMAIL 
 
+### Google agenda
+
+J'ai remplacé google agenda par l'extension lightning pour thunderbird. Moins axé collaboratif, mais tout aussi efficace.
+
 
 ## Aller plus loin
 
